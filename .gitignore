@@ -1,6 +1,9 @@
 # Dependencies
 node_modules/
 
+# Sensitive files
+sensitive-data.txt
+
 # Environment variables
 .env
 .env.local

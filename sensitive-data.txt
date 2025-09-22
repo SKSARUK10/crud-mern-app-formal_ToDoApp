@@ -1,3 +1,0 @@
-mongodb\+srv:\/\/[^@]+:[^@]+@
-mongodb\+srv:\/\/user1:Awu1QZ982Lm47o2C@
-mongodb\+srv:\/\/saruksk:saruk1234@
